@@ -1,0 +1,9 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Minimalist House/Nest Shape -->
+    <path d="M20 45L50 20L80 45V80H20V45Z" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+    <!-- Abstract Nest Lines -->
+    <path d="M35 55H65" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M40 65H60" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+    <!-- Window/Core -->
+    <rect x="45" y="40" width="10" height="10" fill="#1a1a1a"/>
+</svg>
